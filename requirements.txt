@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+transformers
+sentence-transformers
+faiss-cpu
+whisper
+torch
+Pillow
+streamlit
+requests
