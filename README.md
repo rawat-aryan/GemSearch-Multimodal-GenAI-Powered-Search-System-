@@ -20,10 +20,15 @@ GemSearch is a **multimodal semantic search engine** that allows you to search u
 GemSearch/
 │
 ├── app/ # Core backend logic
+
 │ ├── main.py # FastAPI entrypoint
+
 │ ├── search_text.py # SentenceTransformer-based text search
+
 │ ├── search_image.py # CLIP-based image search
+
 │ ├── search_audio.py # Whisper-based audio transcription + search
+
 │
 ├── ui/
 │ └── streamlit_app.py # Multimodal search interface
