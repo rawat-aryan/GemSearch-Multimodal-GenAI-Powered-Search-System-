@@ -32,11 +32,17 @@ GemSearch/
 │
 ├── ui/
 │ └── streamlit_app.py # Multimodal search interface
+
 │
+
 ├── models/ # (Optional) Store downloaded model weights
+
 ├── data/ # (Optional) Sample input files
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project overview and guide
+
 
 
 ---
