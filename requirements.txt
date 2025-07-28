@@ -1,11 +1,13 @@
-
 fastapi
 uvicorn
-transformers
+pydantic
+python-multipart
 sentence-transformers
-faiss-cpu
-whisper
 torch
+transformers
+whisper
+opencv-python
 Pillow
+clip-anytorch
 streamlit
 requests
